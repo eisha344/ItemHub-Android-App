@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#6A5ACD</color>
+    <color name="menu_item_color">#E6F0FA</color>
+    <color name="textDark">#333333</color>
+    <color name="primaryDark">#3700B3</color><!-- Light color for text -->
+
+    <!-- Menu Icon Color -->
+    <color name="menu_icon_color">#A3BFFA</color>   <!-- Light blue for icons -->
+</resources>
