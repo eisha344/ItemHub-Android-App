@@ -42,6 +42,7 @@
             android:layout_centerHorizontal="true"
             android:layout_marginTop="10dp" />
 
+        <!-- Email field with grey hint -->
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/email_layout"
             android:layout_width="match_parent"
@@ -50,16 +51,19 @@
             android:layout_marginTop="30dp"
             android:hint="Email"
             app:errorTextColor="#E53935"
-            app:hintTextColor="#1F2937"
+            app:hintTextColor="#000000"
             app:boxStrokeColor="#1F2937"
+            app:placeholderTextColor="#757575"
             style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
 
             <com.google.android.material.textfield.TextInputEditText
                 android:id="@+id/et_email"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:hint="Email"
                 android:inputType="textEmailAddress"
-                android:textColor="#1F2937" />
+                android:textColor="#1F2937"
+                android:textColorHint="#757575" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <com.google.android.material.button.MaterialButton
