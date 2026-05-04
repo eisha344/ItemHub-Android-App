@@ -53,9 +53,20 @@ An Android application built using **Kotlin + Firebase** for managing items with
 ## 👩‍💻 Developer
 
 - Name: Eisha Tariq
-- Project: Final Year Android App
+- Project: Task submission 
 
 ---
+⚠️ Important Note About Project Names
+
+This project may appear with different names, so please do not get confused:
+
+The Android application package/project was initially created as TaskSphere during development.
+However, the final project name used for submission and GitHub repository is ItemHub.
+Additionally, the splash screen branding displays ItemHub as the app name.
+
+👉 All of these refer to the same project and functionality.
+
+There is no separate or different application.
 
 ## 📌 Note
 
